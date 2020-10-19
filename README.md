@@ -1,6 +1,6 @@
 ### Hey 👋🏽, I'm [Manoj!](https://github.com/Manoj-K-Sarkar) 
 
-[![Linkedin: manoj-k-sarkar](https://img.shields.io/badge/-manoj-k-sarkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manoj-k-sarkar/)](https://www.linkedin.com/in/manoj-k-sarkar//)
+[![Linkedin: manoj-k-sarkar](https://img.shields.io/badge/-manojksarkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manoj-k-sarkar/)](https://www.linkedin.com/in/manoj-k-sarkar//)
 [![GitHub Manoj-K-Sarkar](https://img.shields.io/github/followers/Manoj-K-Sarkar?label=follow&style=social)](https://github.com/Manoj-K-Sarkar)
 [![My Site](http://img.shields.io/badge/-MySite-black?style=flat-squarelink=http://manojkumarsarkar.me/)](http://manojkumarsarkar.me/)
 

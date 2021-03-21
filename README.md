@@ -9,13 +9,13 @@
 I'm an undergraduate student in Information Technology(B.E) at Jadavpur University (IN) 🎓.<br>
 I'm software systems enthusiast.<br>
 I love to put User Interface in Web/Mobile Dev. <br>
-I've been working on different projets, having experience in Web dev and Flutter dev & UI automation 📈.
+I've been working on different projects, having experience in Web dev and Flutter dev & UI automation 📈.
 
 - 🔭 I’m currently working on ReactJS freelancing web app.
 - 🌱 I’m learning and researching on NS-3.
 - 👯 I’m looking for new opportunities as a Software Engineer.
 - 💬 Ask me anything about C++, I am happy to help.
-- 📫 Reach me: manojksarkar.ju@outlook.com
+- 📫 Reach me: mksarkar.ju@outlook.com
 
 My area of interestes are:  Problem Solving✨, Full Stack Dev 📱, and Game Dev🎮. , .
 

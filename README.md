@@ -7,7 +7,7 @@
 
 
 I'm an undergraduate student in Information Technology(B.E) at Jadavpur University (IN) 🎓.<br>
-I'm software systems enthusiast.<br>
+I'm a software systems enthusiast.<br>
 I love to put User Interface in Web/Mobile Dev. <br>
 I've been working on different projects, having experience in Web dev and Flutter dev & UI automation 📈.
 

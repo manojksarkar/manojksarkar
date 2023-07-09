@@ -41,8 +41,8 @@ I hold a B.E. in Information Technology from Jadavpur University, Kolkata.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojksarkar&layout=compact&theme=vision-friendly-dark&count_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojksarkar&layout=compact&theme=dark&count_private=true" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=manojksarkar&count_private=true&show_icons=true&theme=vision-friendly-dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=manojksarkar&count_private=true&show_icons=true&theme=dark" />
 
-![Manoj's Github stats](https://github-readme-streak-stats.herokuapp.com/?user=manojksarkar&theme=vision-friendly-dark)
+![Manoj's Github stats](https://github-readme-streak-stats.herokuapp.com/?user=manojksarkar&theme=dark)

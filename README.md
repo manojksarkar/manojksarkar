@@ -1,41 +1,48 @@
-# Hey 👋🏽, I'm [Manoj!](https://github.com/Manoj-K-Sarkar) 
-
-[![Linkedin: manoj-k-sarkar](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manoj-k-sarkar/)](https://www.linkedin.com/in/manoj-k-sarkar//)
-[![GitHub Manoj-K-Sarkar](https://img.shields.io/github/followers/Manoj-K-Sarkar?label=follow&style=social)](https://github.com/Manoj-K-Sarkar)
-[![My Site](http://img.shields.io/badge/-MySite-black?style=flat-squarelink=http://manojkumarsarkar.me/)](http://manojkumarsarkar.me/)
+# Hey, [Manoj](https://github.com/Manoj-K-Sarkar) here 👋🏽 
 
 
+I'm a Senior Software Engineer at Samsung Semiconductor. 
 
-I'm an undergraduate student in Information Technology(B.E) at Jadavpur University (IN) 🎓.<br>
-I'm a software systems enthusiast.<br>
-I love to put User Interface in Web/Mobile Dev. <br>
-I've been working on different projects, having experience in Web dev and Flutter dev & UI automation 📈.
 
-- 🔭 I’m currently working on ReactJS freelancing web app.
-- 🌱 I’m learning and researching on NS-3.
-- 👯 I’m looking for new opportunities as a Software Engineer.
-- 💬 Ask me anything about C++, I am happy to help.
-- 📫 Reach me: mksarkar.ju@outlook.com
+My professional experience includes working on UI design and development, resolving accessibility issues, integrating Grafana with Rest APIs, implementing Kubernetes clusters, and containerization using Docker. 
+<br/>
+I have also worked on automation testing, test case development, and chip design compliance during my internships.
 
-My area of interestes are:  Problem Solving✨, Full Stack Dev 📱, and Game Dev🎮. , .
+In addition to my professional work, I have also contributed to freelance project by developing a food ordering and delivery website called DearBiryani.
+
+I hold a B.E. in Information Technology from Jadavpur University, Kolkata.
+
+
+- 🔭 Currently looking for SDE, FrontEnd Dev 2 or Full stack dev.
+- 🌱 I’m learning and mentoring college students.
+- 👯 Open to collaborations and new opportunities like Freelancing. 
+- 💬 Ask me anything about C++, ReactJS I am happy to help.
+- 📫 Reach out to me:
+  
+[![Linkedin: manoj-k-sarkar](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manojksarkar/)](https://www.linkedin.com/in/manojksarkar//)
+[![GitHub Manoj-K-Sarkar](https://img.shields.io/github/followers/manojksarkar?label=follow&style=social)](https://github.com/manojksarkar)
+[![My Portfolio](http://img.shields.io/badge/-Portfolio-orangered?style=flat-squarelink=http://manojkumarsarkar.me/)](http://manojkumarsarkar.me/)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Languages and Tools:** 
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<img align="left" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/>
+<img align="left" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
+<img align="left" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
+<img align="left" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
+<img align="left" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
+<img align="left" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
+<img align="left" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+<img align="left" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
+<img align="left" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
+<img align="left" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![github stats](https://github-readme-stats.vercel.app/api/?username=Manoj-K-Sarkar&show_icons=true)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojksarkar&layout=compact&theme=vision-friendly-dark&count_private=true" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=manojksarkar&count_private=true&show_icons=true&theme=vision-friendly-dark" />
+
+![Manoj's Github stats](https://github-readme-streak-stats.herokuapp.com/?user=manojksarkar&theme=vision-friendly-dark)

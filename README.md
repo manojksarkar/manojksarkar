@@ -1,4 +1,4 @@
-# Hey, [Manoj](https://github.com/Manoj-K-Sarkar) here 👋🏽 
+# Hey, [Manoj](https://github.com/manojksarkar) here 👋🏽 
 
 
 I'm a Senior Software Engineer at Samsung Semiconductor. 

@@ -21,7 +21,7 @@ I hold a B.E. in Information Technology from Jadavpur University, Kolkata.
   
 [![Linkedin: manoj-k-sarkar](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manojksarkar/)](https://www.linkedin.com/in/manojksarkar//)
 [![GitHub Manoj-K-Sarkar](https://img.shields.io/github/followers/manojksarkar?label=follow&style=social)](https://github.com/manojksarkar)
-[![My Portfolio](http://img.shields.io/badge/-Portfolio-orangered?style=flat-squarelink=http://manojkumarsarkar.me/)](http://manojkumarsarkar.me/)
+[![My Portfolio](http://img.shields.io/badge/-Portfolio-orangered?style=flat-squarelink=http://manojkumarsarkar.me/)](https://manojksarkar.netlify.app/)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 

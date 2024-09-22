@@ -2,10 +2,10 @@
 
 **A passionate software developer from India 🇮🇳**
 
-- 🔭 Currently working at **Samsung** on **distributed storage system management interfaces**.  
+- 👨‍💻 Working at **Samsung** on distributed storage management interfaces. 
 - 🌱 Learning **NextJS**, **SpringBoot**, **Redis**, **MongoDB**, & **Expo**.
 - 💬 Ask me about **React**, **Flask**, or anything related to **Microservices** and **DevOps**!  
-- 👯 Open to collaborations and new opportunities, especially in open-source projects.
+- 🔭 Open to collaborations and new opportunities, especially in open-source projects.
 - 📫 Reach out to me:
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
